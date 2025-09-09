@@ -1,5 +1,5 @@
-# Objective Problem
-Below, we provide a sample **objective problem** from Course X along with its corresponding grading rubrics (i.e., solution quality and writing quality rubrics).
+# Subjective Problem
+Below, we provide a sample **subjective problem** from Course X along with its corresponding grading rubrics (i.e., solution quality and writing quality rubrics).
 
 ## Problem Statement
 You’re trying to collect all $n$ distinct cards from your favorite trading card game. The only way to
