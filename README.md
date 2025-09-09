@@ -16,4 +16,4 @@ More broadly, by situating our work in proof education, we advance understanding
 
 
 ## Repository Overview
-In this repository, we provide [examples](/examples/) of problem statements and grading rubrics used in the proof-based course investigated in our work, the [prompts](/prompts/) used in our studies, and the [figures](/figures/) used in our paper. 
+In this repository, we provide [examples](/examples/) of problem statements and grading rubrics used in Course X, the [prompts](/prompts/) used in our studies, and the [figures](/figures/) used in our paper. 
